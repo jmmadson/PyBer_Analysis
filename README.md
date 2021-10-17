@@ -59,7 +59,6 @@ Figure 7:
 
 After reviewing the data the following are recommendations to the CEO to help increase profits as well as offer driver support across city types. 
 
-#Reccommendation
 <ol>
 <li>Send drivers from Urban areas to Suburban and Rural areas. This will help increase the average fare per driver for Urban drivers, and bring down the cost of fare per ride for riders which can encourage more Rural ridership and higher profits in those cities. </li>
 
