@@ -7,7 +7,7 @@ As a Data Analyst at PyBer, I was asked to do an exploratory analysis of ride sh
 
 From my analysis of the data which is laid out in the Ride Share Data Summary below, I was able to determine the following differences by city type. My analysis is supported furthar by the charts and summaries provided immediately following the analysis. 
 
-![Ride Share Data Summary](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
+![Pyber Fare Summary](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Ride_Share_Data_Summary.png)
 
 
 ### Urban
@@ -57,8 +57,7 @@ After reviewing the data the following are recommendations to the CEO to help in
 
 <li>Increase rates at peak times, for example late Feb and early April as evidenced in the Pyber Fare Summary chart below, to capture additional revenues at times when ridership is high.</li>
 
-![Pyber Fare Summary](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Ride_Share_Data_Summary.png)
-
+![Ride Share Data Summary](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
 
 <li>Increase the per mile cost for urban trips. These trips due to proximity of places in the city tend to be shorter, and will allow the drivers and PyBer to make additional profit where there is the most ridership.</li>
 </ol> 
