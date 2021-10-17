@@ -7,12 +7,11 @@ As a Data Analyst at PyBer, I was asked to do an exploratory analysis of ride sh
 
 From my analysis of the data which is laid out in the Ride Share Data Summary below, I was able to determine the following differences by city type. My analysis is supported furthar by the charts and summaries provided immediately following the analysis. 
 
-
 ![Ride Share Data Summary](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png)
 
 
 ### Urban
-* Urban cities saw more rides and more drivers than in either of the two city types (See Figure 1 below)
+* Urban cities saw more rides and more drivers than both Rural and Suburban city types (See Figure 1 below)
 * Urban cities had the highest percentage of profits of the city types (See Figure 5 and Figure 6 below)
 * There are more drivers than riders in urban cities, resulting in a lower per driver average fare (See Ride Share Data Summary Above)
 
@@ -27,12 +26,25 @@ From my analysis of the data which is laid out in the Ride Share Data Summary be
 
 
 ### Supporting Figures
+Figure 1:
 ![Figure 1 : PyBer Ride-Sharing Data](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig1.png?raw=true)
+
+Figure 2: 
 ![Figure 2 : Ride Counts](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig2.png?raw=true)
+
+Figure 3:
 ![Figure 3 : Fare Rates](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig3.png?raw=true)
+
+Figure 4:
 ![Figure 4 : Driver Count](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig4.png?raw=true)
+
+Figure 5:
 ![Figure 5 : % of Total Fares by City Type](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig5.png?raw=true)
+
+Figure 6:
 ![Figure 6 : % of Total Rides by City Type](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig6.png?raw=true)
+
+Figure 7: 
 ![Figure 7 : % of Total Drivers by City Type](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig7.png?raw=true)
 
 
@@ -44,6 +56,7 @@ After reviewing the data the following are recommendations to the CEO to help in
 <li>Send drivers from Urban areas to Suburban and Rural areas. This will help increase the average fare per driver for urban drivers, and bring down the cost of fare per ride for riders which can encourage more rural ridership and higher profits. </li>
 
 <li>Increase rates at peak times, for example late Feb and early April as evidenced in the Pyber Fare Summary chart below, to capture additional revenues at times when ridership is high.</li>
+
 ![Pyber Fare Summary](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Ride_Share_Data_Summary.png)
 
 
