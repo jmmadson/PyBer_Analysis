@@ -27,24 +27,30 @@ From my analysis of the data which is laid out in the Ride Share Data Summary be
 
 ### Supporting Figures
 Figure 1:
+
 ![Figure 1 : PyBer Ride-Sharing Data](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig1.png?raw=true)
 
 Figure 2: 
+
 ![Figure 2 : Ride Counts](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig2.png?raw=true)
 
 Figure 3:
+
 ![Figure 3 : Fare Rates](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig3.png?raw=true)
 
 Figure 4:
+
 ![Figure 4 : Driver Count](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig4.png?raw=true)
 
 Figure 5:
+
 ![Figure 5 : % of Total Fares by City Type](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig5.png?raw=true)
 
 Figure 6:
 ![Figure 6 : % of Total Rides by City Type](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig6.png?raw=true)
 
 Figure 7: 
+
 ![Figure 7 : % of Total Drivers by City Type](https://github.com/jmmadson/PyBer_Analysis/blob/main/Resources/Fig7.png?raw=true)
 
 
